@@ -1,7 +1,7 @@
 name: zendesk
 description: Flutter interface for Zendesk Mobile SDK
 version: 2.0.0
-homepage: https://github.com/emostar/flutter-zendesk
+homepage: https://github.com/abednajjar27/flutter-zendesk.git
 
 dependencies:
   flutter:
